@@ -115,3 +115,18 @@ main{
     text-align: center;
 }
 
+/* skill related style */
+.skill-container{
+    display: flex;
+}
+#whatido-desc {
+    padding: 30px 150px;
+}
+.skill{
+    padding: 30px;
+    gap: 24px;
+}
+.skill-desc{
+    
+}
+
